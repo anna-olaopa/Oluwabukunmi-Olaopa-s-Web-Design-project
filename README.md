@@ -21,8 +21,4 @@ This landing page highlights a premium hair extension brand. It includes visuall
 - JavaScript (Vanilla)
 
 ## Live Demo
-[**View the Deployed Site**](https://your-live-link-here.com)
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/anna-olaopa/Oluwabukunmi-Olaopa-s-Web-Design-project.git
+[**View the Deployed Site**](https://oluwabukunmi-olaopa-s-web-design-project-anna-olaopas-projects.vercel.app/)
