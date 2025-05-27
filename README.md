@@ -1,18 +1,18 @@
-# Luxury Hair Co. - Landing Page
+# Oluwabukunmi Olaopa's Web Design Project – Luxury Hair Co. Landing Page
 
-A responsive landing page for a premium hair extension brand, built as part of my Capstone Project in Web Development.
+A responsive and modern landing page for **Luxury Hair Co.**, developed as part of my Capstone Project in Web Development.
 
 ## Overview
 
-This project showcases a modern, visually appealing landing page designed using HTML, CSS, and JavaScript. It demonstrates smooth scrolling, responsive product sections, and a simple subscription form.
+This landing page highlights a premium hair extension brand. It includes visually engaging product sections, smooth scroll navigation, and a simple, user-friendly subscription form.
 
 ## Features
 
-- Mobile-friendly and fully responsive layout
-- Smooth scroll navigation
-- Product showcase with cards and images
-- Newsletter subscription form with JavaScript validation
-- Elegant design with modern UI components
+- Fully responsive design for mobile, tablet, and desktop
+- Smooth scrolling to sections
+- Product grid with descriptions and images
+- Email subscription form with JavaScript validation
+- Clean and elegant UI
 
 ## Technologies Used
 
@@ -21,5 +21,8 @@ This project showcases a modern, visually appealing landing page designed using 
 - JavaScript (Vanilla)
 
 ## Live Demo
+[**View the Deployed Site**](https://your-live-link-here.com)
 
-[View Live Site](https://your-vercel-or-github-pages-link-here.com)
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/anna-olaopa/Oluwabukunmi-Olaopa-s-Web-Design-project.git
